@@ -9,7 +9,7 @@ body {
   width: 100vw;
   /* your properties here */
   display: grid;
-  grid-template: repeat(3,fr) / repeat(4,fr);
+  grid-template: repeat(4,fr) / repeat(3,fr);
 }
 
 .grid-item {
