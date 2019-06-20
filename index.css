@@ -9,7 +9,6 @@ body {
   width: 100vw;
   /* your properties here */
   display: grid;
-  grid-template: 50px 50px 50px 50px / 100px 100px 100px;
 }
 
 .grid-item {
