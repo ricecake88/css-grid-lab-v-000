@@ -10,7 +10,6 @@ body {
   /* your properties here */
   display: grid;
   grid-template: 50px 50px 50px 50px / 100px 100px 100px;
-  grid-gap: 5px;
 }
 
 .grid-item {
